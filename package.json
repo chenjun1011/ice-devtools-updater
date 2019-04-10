@@ -1,6 +1,6 @@
 {
   "name": "ice-devtools-updater",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ice-devtools 升级工具",
   "main": "bin/index.js",
   "bin": {
@@ -18,7 +18,7 @@
     "ora": "^3.4.0",
     "request": "^2.88.0",
     "rimraf": "^2.6.3",
-    "tar": "^4..8",
+    "tar": "^2.2.1",
     "user-home": "^2.0.0",
     "zlib": "^1.0.5"
   }
