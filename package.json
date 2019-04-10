@@ -4,7 +4,8 @@
   "description": "ice-devtools 升级工具",
   "main": "bin/index.js",
   "bin": {
-    "idev-updater": "bin/index.js"
+    "idev-updater": "bin/index.js",
+    "ice-devtools-updater": "bin/index.js"
   },
   "license": "MIT",
   "dependencies": {
